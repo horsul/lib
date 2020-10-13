@@ -1,0 +1,22 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "библиотека",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lib"
+  },
+  "keywords": [
+    "lib"
+  ],
+  "author": "melnikov",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "npm": "^6.14.8"
+  }
+}
